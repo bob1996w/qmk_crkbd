@@ -31,7 +31,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PERMISSIVE_HOLD
 
 // OLED settings
-#define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"
+// #define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"
+#define OLED_FONT_H "keyboards/crkbd/keymaps/bob1996w/glcdfont.c"
 
 // Mouse Key settings
 #define MOUSEKEY_INTERVAL 16
